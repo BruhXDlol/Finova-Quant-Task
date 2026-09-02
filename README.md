@@ -11,17 +11,16 @@ Project Description:
 
 ---
 
-Folder Structure:
+### Folder Structure
 
+```text
 Finova_Quant_Trading_Task/
 ├── Screenshots/
-│   ├── Best.png    # Trade #1 (Oct 2025 - Jan 2026) visual
-│   ├── worst.png    # Trade #2 (May 2026) visual
-│   └── 12 Month.png   # Full 1-year visual of 20/50 EMAs
-├── Reliance Log.xlsx   # Trade log and summary spreadsheet
-├── FINOVA Quant & Trading_Satvik Jayaswal.docx # Final submission report
-└── README.md                    # This file
-
-# Finova-Quant-Task
+│   ├── Best.png               # Trade #1 (Oct 2025 - Jan 2026) visual
+│   ├── worst.png              # Trade #2 (May 2026) visual
+│   └── 12 Month.png           # Full 1-year visual of 20/50 EMAs
+├── Reliance Log.xlsx          # Trade log and summary spreadsheet
+├── FINOVA Quant & Trading_Satvik Jayaswal.pdf # Final submission report
+└── README.md                  # This file
 The project analyzes a trend-following trading strategy that uses a 20-period and 50-period Exponential Moving Average crossover system on daily candlestick charts of Reliance Industries Limited on the National Stock Exchange. It contains screenshots of two trade executions as well as the complete one-year chart required for the submission.
 20/50 Daiily EMA Crossover for Reliance Industries:
