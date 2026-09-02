@@ -2,7 +2,6 @@ Author: Satvik Jayaswal
 Reg No.: 251090610134  
 Branch: Cps-B  
 Task: Finova Quant & Trading Recruitment Task  
-
 ---
 
 Project Description:
